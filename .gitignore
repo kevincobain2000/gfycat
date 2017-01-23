@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+coverage
+phpunit.xml
+composer.phar
+composer.lock
+composer-test.lock
+/vendor

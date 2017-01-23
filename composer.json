@@ -1,0 +1,33 @@
+{
+    "name": "kevincobain2000/gfycat",
+    "description": "A PHP interface to the Gfycat API.",
+    "keywords": ["gfycat", "gif", "gfy", "gifycat"],
+    "homepage": "https://github.com/kevincobain2000/gfycat",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pulkit Kathuria",
+            "email": "kevincobain2000@gmail.com",
+            "homepage": "http://kevincobain2000.github.io/",
+            "role": "Developer"
+        }
+    ],
+
+    "minimum-stability": "stable",
+
+    "require": {
+        "rmccue/requests": ">=1.0"
+    },
+
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*",
+        "squizlabs/php_codesniffer": "1.*"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "kevincobain2000\\": "src/"
+        }
+    }
+}
