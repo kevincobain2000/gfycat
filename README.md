@@ -5,7 +5,7 @@ PHP Interface to Gfycat, GET and SEARCH
 ## Install
 
 ```
-composer require kevincobain2000/gfycat "^1.0"
+composer require kevincobain2000/gfycat
 composer update -vvv
 ```
 
