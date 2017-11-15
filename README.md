@@ -1,4 +1,4 @@
-#Gfycat API
+## Gfycat API
 
 PHP Interface to Gfycat, GET and SEARCH
 
